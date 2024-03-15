@@ -1,0 +1,13 @@
+header{
+    height: 45vh;
+    background-image: url(https://www.netscribes.com/wp-content/uploads/2019/06/Technology-Watch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+form{
+    background-image: linear-gradient(to right,white,rgb(209,209,233));
+}
+form span{
+    font-size: 13px;
+}
